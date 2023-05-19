@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "67850ee2-d579-4d65-b1f7-fa2203d2de1a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 100,
+  "height": 56,
+  "platformSettings": {},
+  "subMetas": {
+    "haitac_btn2_line_16": {
+      "ver": "1.0.4",
+      "uuid": "735d2292-ca6e-4bab-92ab-5a8cec0d3fe2",
+      "rawTextureUuid": "67850ee2-d579-4d65-b1f7-fa2203d2de1a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 100,
+      "height": 56,
+      "rawWidth": 100,
+      "rawHeight": 56,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

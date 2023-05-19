@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0b35305b-8f5f-4667-aa93-4a947c6fd438",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 720,
+  "height": 462,
+  "platformSettings": {},
+  "subMetas": {
+    "board_free_game": {
+      "ver": "1.0.4",
+      "uuid": "05a901e0-5e66-45f5-89eb-55eb05548b8a",
+      "rawTextureUuid": "0b35305b-8f5f-4667-aa93-4a947c6fd438",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 17,
+      "trimY": 9,
+      "width": 686,
+      "height": 447,
+      "rawWidth": 720,
+      "rawHeight": 462,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

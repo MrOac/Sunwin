@@ -1,0 +1,41 @@
+
+9b5de6c0-2f55-4105-862f-3825086f0f0b.png
+size: 1528,1204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 1204, 843
+  size: 322, 359
+  orig: 322, 359
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1423, 803
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 1204, 600
+  size: 217, 241
+  orig: 217, 241
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 1204, 385
+  size: 215, 213
+  orig: 215, 213
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+ho.png
+size: 1710,644
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/Layer 1
+  rotate: false
+  xy: 2, 433
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1
+fx/Layer 10
+  rotate: false
+  xy: 851, 222
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1
+fx/Layer 11
+  rotate: false
+  xy: 1134, 222
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1
+fx/Layer 12
+  rotate: false
+  xy: 1417, 222
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1
+fx/Layer 13
+  rotate: false
+  xy: 2, 11
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1
+fx/Layer 14
+  rotate: false
+  xy: 285, 11
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1
+fx/Layer 15
+  rotate: false
+  xy: 568, 11
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1
+fx/Layer 16
+  rotate: false
+  xy: 851, 11
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1
+fx/Layer 17
+  rotate: false
+  xy: 1134, 11
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1
+fx/Layer 18
+  rotate: false
+  xy: 1417, 2
+  size: 291, 218
+  orig: 291, 218
+  offset: 0, 0
+  index: -1
+fx/Layer 2
+  rotate: false
+  xy: 285, 433
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1
+fx/Layer 3
+  rotate: false
+  xy: 568, 433
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1
+fx/Layer 4
+  rotate: false
+  xy: 851, 433
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1
+fx/Layer 5
+  rotate: false
+  xy: 1134, 433
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1
+fx/Layer 6
+  rotate: false
+  xy: 1417, 433
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1
+fx/Layer 7
+  rotate: false
+  xy: 2, 222
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1
+fx/Layer 8
+  rotate: false
+  xy: 285, 222
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1
+fx/Layer 9
+  rotate: false
+  xy: 568, 222
+  size: 281, 209
+  orig: 281, 209
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,176 @@
+{
+"skeleton": {
+	"hash": "leYGKl+72wgGDrIArIDmeESWGow",
+	"spine": "3.8.75",
+	"x": -615.57,
+	"y": -378.9,
+	"width": 1290.8,
+	"height": 670.35,
+	"images": "./images/",
+	"audio": "D:/JOBS/studio/ui desing new/rikvip rikwin/asset/box2/ani/corona/corona2/1/win/1"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bg", "parent": "root", "x": 433.32, "y": -249.53 },
+	{ "name": "tile", "parent": "root", "x": -6.05, "y": -271.65 },
+	{ "name": "nguoi", "parent": "root", "x": 13.24, "y": -18.95 },
+	{ "name": "1", "parent": "root", "x": -406.8, "y": -125.27 },
+	{ "name": "2", "parent": "root", "x": -414.11, "y": 173.21 },
+	{ "name": "3", "parent": "root", "x": -209.77, "y": 60.97 },
+	{ "name": "4", "parent": "root", "x": 167.37, "y": 182.99 },
+	{ "name": "5", "parent": "root", "x": 252.48, "y": 25.53 },
+	{ "name": "6", "parent": "root", "x": 277.33, "y": -85.66 },
+	{ "name": "tile2", "parent": "tile", "x": 10.6, "y": -1.14 },
+	{ "name": "tile3", "parent": "tile", "x": -276.23, "y": 9.24 }
+],
+"slots": [
+	{ "name": "Layer 11", "bone": "1", "attachment": "Layer 11" },
+	{ "name": "Layer 9", "bone": "bg", "attachment": "Layer 9" },
+	{ "name": "Layer 8", "bone": "4", "attachment": "Layer 8" },
+	{ "name": "Layer 6", "bone": "2", "attachment": "Layer 6" },
+	{ "name": "Layer 5", "bone": "3", "attachment": "Layer 5" },
+	{ "name": "Layer 4", "bone": "5", "attachment": "Layer 4" },
+	{ "name": "Layer 3", "bone": "nguoi", "attachment": "Layer 3" },
+	{ "name": "Layer 2", "bone": "6", "attachment": "Layer 2" },
+	{ "name": "Layer 10", "bone": "tile2", "attachment": "Layer 10" },
+	{ "name": "Layer 7", "bone": "tile3", "attachment": "Layer 7" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Layer 2": {
+				"Layer 2": { "x": 23.08, "y": -8.08, "width": 189, "height": 188 }
+			},
+			"Layer 3": {
+				"Layer 3": { "x": -10.52, "y": -0.1, "width": 445, "height": 461 }
+			},
+			"Layer 4": {
+				"Layer 4": { "x": 26.07, "y": -1.63, "width": 201, "height": 144 }
+			},
+			"Layer 5": {
+				"Layer 5": { "x": 1.49, "y": 0.98, "width": 247, "height": 253 }
+			},
+			"Layer 6": {
+				"Layer 6": { "x": 3.98, "y": 12.03, "width": 133, "height": 125 }
+			},
+			"Layer 7": {
+				"Layer 7": { "x": 3.28, "y": 6.86, "width": 161, "height": 186 }
+			},
+			"Layer 8": {
+				"Layer 8": { "x": -1.92, "y": -1.81, "width": 180, "height": 185 }
+			},
+			"Layer 9": {
+				"Layer 9": { "x": -364.09, "y": 228.48, "width": 1212, "height": 625 }
+			},
+			"Layer 10": {
+				"Layer 10": { "x": -13.9, "y": 20.21, "width": 355, "height": 173 }
+			},
+			"Layer 11": {
+				"Layer 11": { "x": -74.28, "y": -95.13, "width": 269, "height": 317 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"1": {
+				"rotate": [
+					{},
+					{ "time": 0.5, "angle": -8.43 },
+					{ "time": 1, "angle": -1.2 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.3333, "x": -46.01, "y": 28.97 },
+					{ "time": 0.5, "x": -34.93, "y": 21.3 },
+					{ "time": 1 }
+				]
+			},
+			"2": {
+				"rotate": [
+					{}
+				],
+				"translate": [
+					{},
+					{ "time": 0.4, "x": -71.57, "y": 4.26, "curve": "stepped" },
+					{ "time": 0.6667, "x": -71.57, "y": 4.26 },
+					{ "time": 1, "x": -26.41, "y": -2.56 }
+				]
+			},
+			"3": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 1 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.5, "x": -18.72, "y": 14.56 },
+					{ "time": 1 }
+				]
+			},
+			"4": {
+				"rotate": [
+					{ "curve": "stepped" },
+					{ "time": 1 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.3333, "y": 28.97, "curve": "stepped" },
+					{ "time": 0.6667, "y": 28.97 },
+					{ "time": 1 }
+				]
+			},
+			"5": {
+				"rotate": [
+					{},
+					{ "time": 0.5, "angle": 18.01 },
+					{ "time": 1 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.5, "x": 151.26, "y": 108.41 },
+					{ "time": 1 }
+				]
+			},
+			"6": {
+				"rotate": [
+					{},
+					{ "time": 0.5, "angle": -28.99 },
+					{ "time": 1 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.5, "x": 141.89, "y": -6.24 },
+					{ "time": 1 }
+				]
+			},
+			"nguoi": {
+				"scale": [
+					{},
+					{ "time": 0.3333, "x": 1.185, "y": 1.185, "curve": "stepped" },
+					{ "time": 0.6667, "x": 1.185, "y": 1.185 },
+					{ "time": 1 }
+				]
+			},
+			"tile3": {
+				"translate": [
+					{},
+					{ "time": 0.5, "x": -7.01 },
+					{ "time": 1 }
+				]
+			},
+			"tile2": {
+				"scale": [
+					{},
+					{ "time": 0.2333, "x": 1.203, "y": 1.203 },
+					{ "time": 0.5 },
+					{ "time": 0.7667, "x": 1.203, "y": 1.203 },
+					{ "time": 1 }
+				]
+			}
+		}
+	}
+}
+}

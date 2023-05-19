@@ -1,0 +1,27 @@
+
+UI_FreeSpin.png
+size: 218,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light
+  rotate: false
+  xy: 2, 118
+  size: 168, 176
+  orig: 168, 176
+  offset: 0, 0
+  index: -1
+Text_Light
+  rotate: false
+  xy: 2, 2
+  size: 106, 114
+  orig: 106, 114
+  offset: 0, 0
+  index: -1
+UI_FreeSpin
+  rotate: false
+  xy: 110, 2
+  size: 106, 114
+  orig: 106, 114
+  offset: 0, 0
+  index: -1

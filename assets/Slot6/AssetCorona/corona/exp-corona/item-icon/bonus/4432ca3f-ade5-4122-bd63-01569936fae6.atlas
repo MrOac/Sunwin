@@ -1,0 +1,55 @@
+
+4432ca3f-ade5-4122-bd63-01569936fae6.png
+size: 1854,766
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: true
+  xy: 1030, 133
+  size: 631, 436
+  orig: 631, 436
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: true
+  xy: 1474, 240
+  size: 524, 370
+  orig: 524, 370
+  offset: 0, 0
+  index: -1
+dai
+  rotate: true
+  xy: 711, 110
+  size: 654, 317
+  orig: 654, 317
+  offset: 0, 0
+  index: -1
+flare
+  rotate: true
+  xy: 2, 46
+  size: 718, 707
+  orig: 718, 707
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 1474, 2
+  size: 223, 236
+  orig: 223, 236
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 1699, 39
+  size: 199, 153
+  orig: 199, 153
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 1030, 10
+  size: 442, 121
+  orig: 442, 121
+  offset: 0, 0
+  index: -1

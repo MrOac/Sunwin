@@ -1,0 +1,489 @@
+
+Symbol_Z.png
+size: 1803,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chicken_eff_fire/Chicken_eff_fire_00000
+  rotate: false
+  xy: 2, 109
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00001
+  rotate: true
+  xy: 150, 268
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00002
+  rotate: true
+  xy: 298, 396
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00003
+  rotate: true
+  xy: 445, 396
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00004
+  rotate: true
+  xy: 592, 396
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00005
+  rotate: true
+  xy: 739, 396
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00006
+  rotate: true
+  xy: 886, 396
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00007
+  rotate: true
+  xy: 1033, 396
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00008
+  rotate: true
+  xy: 1180, 396
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00009
+  rotate: true
+  xy: 1327, 396
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00010
+  rotate: true
+  xy: 1474, 396
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00011
+  rotate: true
+  xy: 1621, 396
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00012
+  rotate: false
+  xy: 129, 109
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00013
+  rotate: false
+  xy: 256, 121
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00014
+  rotate: true
+  xy: 297, 268
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00015
+  rotate: true
+  xy: 444, 269
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00016
+  rotate: true
+  xy: 591, 269
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00017
+  rotate: true
+  xy: 738, 269
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00018
+  rotate: true
+  xy: 885, 269
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00019
+  rotate: true
+  xy: 1032, 269
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00020
+  rotate: true
+  xy: 1179, 269
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00021
+  rotate: true
+  xy: 1326, 269
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00022
+  rotate: true
+  xy: 1473, 269
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00023
+  rotate: true
+  xy: 1620, 269
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00024
+  rotate: false
+  xy: 383, 121
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00025
+  rotate: false
+  xy: 510, 122
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00026
+  rotate: false
+  xy: 637, 122
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00027
+  rotate: false
+  xy: 764, 122
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00028
+  rotate: false
+  xy: 891, 122
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+Chicken_eff_fire/Chicken_eff_fire_00029
+  rotate: false
+  xy: 1018, 122
+  size: 125, 145
+  orig: 125, 145
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 1145, 146
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+blur
+  rotate: false
+  xy: 2, 384
+  size: 146, 137
+  orig: 146, 137
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 769, 3
+  size: 50, 83
+  orig: 50, 83
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 2, 256
+  size: 146, 126
+  orig: 146, 126
+  offset: 0, 0
+  index: -1
+frame1
+  rotate: false
+  xy: 150, 395
+  size: 146, 126
+  orig: 146, 126
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: false
+  xy: 102, 4
+  size: 120, 103
+  orig: 120, 103
+  offset: 0, 0
+  index: -1
+fx_eye
+  rotate: false
+  xy: 854, 19
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+fx_head
+  rotate: false
+  xy: 991, 61
+  size: 82, 59
+  orig: 82, 59
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 224, 32
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 1130, 77
+  size: 13, 43
+  orig: 13, 43
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 224, 65
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: false
+  xy: 1768, 430
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1768, 473
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+head2
+  rotate: false
+  xy: 1768, 394
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+light_01
+  rotate: false
+  xy: 1281, 151
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1
+light_09
+  rotate: false
+  xy: 1281, 151
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1
+light_02
+  rotate: false
+  xy: 1419, 151
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1
+light_03
+  rotate: false
+  xy: 1557, 151
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1
+light_04
+  rotate: false
+  xy: 1145, 28
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1
+light_05
+  rotate: false
+  xy: 1283, 33
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1
+light_06
+  rotate: false
+  xy: 1421, 33
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1
+light_07
+  rotate: false
+  xy: 1559, 33
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1
+light_08
+  rotate: false
+  xy: 256, 3
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1767, 373
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 1130, 56
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+sparks/Symbols_PNG_eff_round_out_sparks_00019
+  rotate: false
+  xy: 224, 8
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+sparks/Symbols_PNG_eff_round_out_sparks_00020
+  rotate: false
+  xy: 1075, 50
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+sparks/Symbols_PNG_eff_round_out_sparks_00021
+  rotate: true
+  xy: 905, 46
+  size: 74, 84
+  orig: 74, 84
+  offset: 0, 0
+  index: -1
+sparks/Symbols_PNG_eff_round_out_sparks_00022
+  rotate: false
+  xy: 607, 28
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+sparks/Symbols_PNG_eff_round_out_sparks_00023
+  rotate: true
+  xy: 2, 2
+  size: 105, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+sparks/Symbols_PNG_eff_round_out_sparks_00024
+  rotate: true
+  xy: 1695, 158
+  size: 109, 99
+  orig: 109, 99
+  offset: 0, 0
+  index: -1
+sparks/Symbols_PNG_eff_round_out_sparks_00025
+  rotate: true
+  xy: 1697, 47
+  size: 109, 99
+  orig: 109, 99
+  offset: 0, 0
+  index: -1
+sparks/Symbols_PNG_eff_round_out_sparks_00026
+  rotate: false
+  xy: 394, 17
+  size: 106, 102
+  orig: 106, 102
+  offset: 0, 0
+  index: -1
+sparks/Symbols_PNG_eff_round_out_sparks_00027
+  rotate: false
+  xy: 502, 16
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+sparks/Symbols_PNG_eff_round_out_sparks_00028
+  rotate: true
+  xy: 702, 55
+  size: 65, 106
+  orig: 65, 106
+  offset: 0, 0
+  index: -1
+sparks/Symbols_PNG_eff_round_out_sparks_00029
+  rotate: true
+  xy: 810, 55
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+toungle
+  rotate: true
+  xy: 150, 257
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+wing1
+  rotate: true
+  xy: 991, 2
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+wing2
+  rotate: true
+  xy: 702, 2
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1

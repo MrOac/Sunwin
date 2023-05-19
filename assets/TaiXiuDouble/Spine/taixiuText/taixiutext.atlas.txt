@@ -1,0 +1,118 @@
+
+taixiutext.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIG
+  rotate: false
+  xy: 1624, 169
+  size: 140, 67
+  orig: 140, 67
+  offset: 0, 0
+  index: -1
+SMALL
+  rotate: false
+  xy: 1130, 175
+  size: 227, 61
+  orig: 227, 61
+  offset: 0, 0
+  index: -1
+TÀI
+  rotate: false
+  xy: 1359, 136
+  size: 149, 100
+  orig: 149, 100
+  offset: 0, 0
+  index: -1
+XỈU
+  rotate: false
+  xy: 1130, 67
+  size: 167, 106
+  orig: 167, 106
+  offset: 0, 0
+  index: -1
+fx/18 (1)
+  rotate: false
+  xy: 2, 2
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+fx/18 (2)
+  rotate: false
+  xy: 2, 2
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+fx/18 (11)
+  rotate: false
+  xy: 1510, 130
+  size: 112, 106
+  orig: 234, 234
+  offset: 57, 57
+  index: -1
+fx/18 (12)
+  rotate: false
+  xy: 1510, 130
+  size: 112, 106
+  orig: 234, 234
+  offset: 57, 57
+  index: -1
+fx/18 (3)
+  rotate: false
+  xy: 238, 2
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+fx/18 (4)
+  rotate: false
+  xy: 238, 2
+  size: 234, 234
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+fx/18 (5)
+  rotate: false
+  xy: 474, 3
+  size: 234, 233
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+fx/18 (6)
+  rotate: false
+  xy: 474, 3
+  size: 234, 233
+  orig: 234, 234
+  offset: 0, 0
+  index: -1
+fx/18 (7)
+  rotate: false
+  xy: 710, 15
+  size: 230, 221
+  orig: 234, 234
+  offset: 0, 2
+  index: -1
+fx/18 (8)
+  rotate: false
+  xy: 710, 15
+  size: 230, 221
+  orig: 234, 234
+  offset: 0, 2
+  index: -1
+fx/18 (9)
+  rotate: false
+  xy: 942, 78
+  size: 186, 158
+  orig: 234, 234
+  offset: 17, 39
+  index: -1
+fx/18 (10)
+  rotate: false
+  xy: 942, 78
+  size: 186, 158
+  orig: 234, 234
+  offset: 17, 39
+  index: -1

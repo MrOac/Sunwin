@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ca10ac0f-e5c0-4d69-9af7-f8edf67d85d8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 261,
+  "height": 72,
+  "platformSettings": {},
+  "subMetas": {
+    "haitac_bg_napcoin": {
+      "ver": "1.0.4",
+      "uuid": "5853f63b-1f93-458d-a832-9bc019855f97",
+      "rawTextureUuid": "ca10ac0f-e5c0-4d69-9af7-f8edf67d85d8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 261,
+      "height": 72,
+      "rawWidth": 261,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

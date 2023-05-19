@@ -1,0 +1,118 @@
+
+Symbol_A.png
+size: 941,337
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_frame
+  rotate: false
+  xy: 279, 157
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+B_frame_Halo
+  rotate: false
+  xy: 781, 175
+  size: 158, 160
+  orig: 158, 160
+  offset: 0, 0
+  index: -1
+B_frame_Halo_Thick
+  rotate: false
+  xy: 629, 12
+  size: 158, 160
+  orig: 158, 160
+  offset: 0, 0
+  index: -1
+B_frame_glow
+  rotate: false
+  xy: 789, 41
+  size: 129, 132
+  orig: 129, 132
+  offset: 0, 0
+  index: -1
+F_frame
+  rotate: false
+  xy: 459, 174
+  size: 159, 161
+  orig: 159, 161
+  offset: 0, 0
+  index: -1
+F_frame_glow
+  rotate: false
+  xy: 620, 174
+  size: 159, 161
+  orig: 159, 161
+  offset: 0, 0
+  index: -1
+Sparkle_white
+  rotate: false
+  xy: 316, 17
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 459, 58
+  size: 168, 114
+  orig: 168, 114
+  offset: 0, 0
+  index: -1
+brush_new
+  rotate: false
+  xy: 396, 19
+  size: 40, 136
+  orig: 40, 136
+  offset: 0, 0
+  index: -1
+brush_new_gold
+  rotate: true
+  xy: 438, 16
+  size: 40, 136
+  orig: 40, 136
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 576, 10
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+gold
+  rotate: false
+  xy: 789, 13
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 279, 83
+  size: 72, 115
+  orig: 72, 115
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 62
+  size: 275, 273
+  orig: 275, 273
+  offset: 0, 0
+  index: -1
+scatter
+  rotate: false
+  xy: 2, 2
+  size: 155, 58
+  orig: 155, 58
+  offset: 0, 0
+  index: -1
+scatter_glow
+  rotate: false
+  xy: 159, 2
+  size: 155, 58
+  orig: 155, 58
+  offset: 0, 0
+  index: -1

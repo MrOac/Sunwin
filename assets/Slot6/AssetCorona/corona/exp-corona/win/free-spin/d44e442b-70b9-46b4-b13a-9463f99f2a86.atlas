@@ -1,0 +1,34 @@
+
+d44e442b-70b9-46b4-b13a-9463f99f2a86.png
+size: 1593,1204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 1204, 757
+  size: 387, 445
+  orig: 387, 445
+  offset: 0, 0
+  index: -1
+free
+  rotate: false
+  xy: 1204, 552
+  size: 172, 85
+  orig: 172, 85
+  offset: 0, 0
+  index: -1
+spin
+  rotate: false
+  xy: 1204, 639
+  size: 246, 116
+  orig: 246, 116
+  offset: 0, 0
+  index: -1

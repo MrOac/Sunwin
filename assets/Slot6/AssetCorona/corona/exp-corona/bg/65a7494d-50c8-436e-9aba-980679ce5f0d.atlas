@@ -1,0 +1,41 @@
+
+65a7494d-50c8-436e-9aba-980679ce5f0d.png
+size: 878,617
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 691, 262
+  size: 185, 173
+  orig: 185, 173
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 691, 132
+  size: 128, 130
+  orig: 128, 130
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 691, 437
+  size: 178, 183
+  orig: 178, 183
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 691, 2
+  size: 125, 128
+  orig: 125, 128
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 16
+  size: 687, 599
+  orig: 687, 599
+  offset: 0, 0
+  index: -1

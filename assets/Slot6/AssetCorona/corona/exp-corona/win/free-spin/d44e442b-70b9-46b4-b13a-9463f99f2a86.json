@@ -1,0 +1,88 @@
+{
+"skeleton": {
+	"hash": "14o4ucFrLICZQtEi4HpOZ3nfKyI",
+	"spine": "3.8.75",
+	"x": -340.36,
+	"y": -340.36,
+	"width": 680.73,
+	"height": 680.73,
+	"images": "./images/",
+	"audio": "D:/JOBS/studio/ui desing new/rikvip rikwin/asset/box2/ani/corona/corona2/1/spin"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": -85.22, "y": -121.86 },
+	{ "name": "bone2", "parent": "root", "x": 134.18, "y": -132.62 },
+	{ "name": "vr", "parent": "root", "x": 14.44, "y": 41.61 },
+	{ "name": "bone3", "parent": "root" }
+],
+"slots": [
+	{ "name": "Layer 1", "bone": "bone3", "attachment": "Layer 1" },
+	{ "name": "Layer 4", "bone": "vr", "attachment": "Layer 4" },
+	{ "name": "spin", "bone": "bone2", "attachment": "spin" },
+	{ "name": "free", "bone": "bone", "attachment": "free" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Layer 1": {
+				"Layer 1": { "scaleX": 0.5673, "scaleY": 0.5673, "width": 1200, "height": 1200 }
+			},
+			"Layer 4": {
+				"Layer 4": { "x": -1.45, "y": -37.75, "width": 387, "height": 445 }
+			},
+			"free": {
+				"free": { "x": -9.29, "y": -3.27, "width": 172, "height": 85 }
+			},
+			"spin": {
+				"spin": { "x": -21.69, "y": -1.01, "width": 246, "height": 116 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"bone2": {
+				"translate": [
+					{},
+					{ "time": 0.5, "x": 28.51 },
+					{ "time": 1 }
+				]
+			},
+			"bone": {
+				"translate": [
+					{},
+					{ "time": 0.5, "x": -16.15 },
+					{ "time": 1 }
+				]
+			},
+			"vr": {
+				"rotate": [
+					{},
+					{ "time": 0.5, "angle": 2.47 },
+					{ "time": 1 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.5, "y": -6.49 },
+					{ "time": 1 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.5, "x": 1.169, "y": 1.169 },
+					{ "time": 1 }
+				]
+			},
+			"bone3": {
+				"rotate": [
+					{},
+					{ "time": 0.5, "angle": 180 },
+					{ "time": 1 }
+				]
+			}
+		}
+	}
+}
+}

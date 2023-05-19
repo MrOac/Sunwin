@@ -1,0 +1,27 @@
+
+e940fc35-9320-4af5-8dcb-3a5c8dcc6ab1.png
+size: 1509,1204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+23
+  rotate: false
+  xy: 2, 2
+  size: 1200, 1200
+  orig: 1200, 1200
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 1204, 858
+  size: 303, 344
+  orig: 303, 344
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1204, 820
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1

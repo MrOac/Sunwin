@@ -1,0 +1,111 @@
+
+VFX_NearWin.png
+size: 1902,890
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Saber_fbf/Saber_NearWin_00
+  rotate: true
+  xy: 2, 668
+  size: 220, 473
+  orig: 220, 473
+  offset: 0, 0
+  index: -1
+Saber_fbf/Saber_NearWin_01
+  rotate: true
+  xy: 477, 668
+  size: 220, 473
+  orig: 220, 473
+  offset: 0, 0
+  index: -1
+Saber_fbf/Saber_NearWin_02
+  rotate: true
+  xy: 952, 668
+  size: 220, 473
+  orig: 220, 473
+  offset: 0, 0
+  index: -1
+Saber_fbf/Saber_NearWin_03
+  rotate: true
+  xy: 1427, 668
+  size: 220, 473
+  orig: 220, 473
+  offset: 0, 0
+  index: -1
+Saber_fbf/Saber_NearWin_04
+  rotate: true
+  xy: 2, 446
+  size: 220, 473
+  orig: 220, 473
+  offset: 0, 0
+  index: -1
+Saber_fbf/Saber_NearWin_05
+  rotate: true
+  xy: 477, 446
+  size: 220, 473
+  orig: 220, 473
+  offset: 0, 0
+  index: -1
+Saber_fbf/Saber_NearWin_06
+  rotate: true
+  xy: 952, 446
+  size: 220, 473
+  orig: 220, 473
+  offset: 0, 0
+  index: -1
+Saber_fbf/Saber_NearWin_07
+  rotate: true
+  xy: 1427, 446
+  size: 220, 473
+  orig: 220, 473
+  offset: 0, 0
+  index: -1
+Saber_fbf/Saber_NearWin_08
+  rotate: true
+  xy: 2, 224
+  size: 220, 473
+  orig: 220, 473
+  offset: 0, 0
+  index: -1
+Saber_fbf/Saber_NearWin_09
+  rotate: true
+  xy: 477, 224
+  size: 220, 473
+  orig: 220, 473
+  offset: 0, 0
+  index: -1
+Saber_fbf/Saber_NearWin_10
+  rotate: true
+  xy: 952, 224
+  size: 220, 473
+  orig: 220, 473
+  offset: 0, 0
+  index: -1
+Saber_fbf/Saber_NearWin_11
+  rotate: true
+  xy: 1427, 224
+  size: 220, 473
+  orig: 220, 473
+  offset: 0, 0
+  index: -1
+Saber_fbf/Saber_NearWin_12
+  rotate: true
+  xy: 2, 2
+  size: 220, 473
+  orig: 220, 473
+  offset: 0, 0
+  index: -1
+Saber_fbf/Saber_NearWin_13
+  rotate: true
+  xy: 477, 2
+  size: 220, 473
+  orig: 220, 473
+  offset: 0, 0
+  index: -1
+Saber_fbf/Saber_NearWin_14
+  rotate: true
+  xy: 952, 2
+  size: 220, 473
+  orig: 220, 473
+  offset: 0, 0
+  index: -1

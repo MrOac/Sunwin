@@ -1,0 +1,118 @@
+
+Symbol_K.png
+size: 1009,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 883, 133
+  size: 135, 115
+  orig: 135, 115
+  offset: 0, 0
+  index: -1
+blur
+  rotate: false
+  xy: 2, 109
+  size: 147, 159
+  orig: 147, 159
+  offset: 0, 0
+  index: -1
+frame
+  rotate: true
+  xy: 151, 121
+  size: 147, 126
+  orig: 147, 126
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 19
+  size: 137, 88
+  orig: 137, 88
+  offset: 0, 0
+  index: -1
+light_01
+  rotate: false
+  xy: 244, 2
+  size: 137, 117
+  orig: 137, 117
+  offset: 0, 0
+  index: -1
+light_02
+  rotate: false
+  xy: 383, 2
+  size: 137, 117
+  orig: 137, 117
+  offset: 0, 0
+  index: -1
+light_03
+  rotate: true
+  xy: 407, 131
+  size: 137, 117
+  orig: 137, 117
+  offset: 0, 0
+  index: -1
+light_04
+  rotate: false
+  xy: 522, 12
+  size: 137, 117
+  orig: 137, 117
+  offset: 0, 0
+  index: -1
+light_05
+  rotate: true
+  xy: 526, 131
+  size: 137, 117
+  orig: 137, 117
+  offset: 0, 0
+  index: -1
+light_06
+  rotate: true
+  xy: 645, 131
+  size: 137, 117
+  orig: 137, 117
+  offset: 0, 0
+  index: -1
+light_07
+  rotate: false
+  xy: 661, 12
+  size: 137, 117
+  orig: 137, 117
+  offset: 0, 0
+  index: -1
+light_08
+  rotate: true
+  xy: 764, 131
+  size: 137, 117
+  orig: 137, 117
+  offset: 0, 0
+  index: -1
+light_09
+  rotate: false
+  xy: 800, 12
+  size: 137, 117
+  orig: 137, 117
+  offset: 0, 0
+  index: -1
+model
+  rotate: true
+  xy: 279, 121
+  size: 147, 126
+  orig: 147, 126
+  offset: 0, 0
+  index: -1
+tc
+  rotate: false
+  xy: 141, 5
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+wild
+  rotate: true
+  xy: 939, 13
+  size: 118, 68
+  orig: 118, 68
+  offset: 0, 0
+  index: -1

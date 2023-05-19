@@ -1,0 +1,69 @@
+
+UI_FreeG_Scroll.png
+size: 1009,359
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fabric_A_1
+  rotate: true
+  xy: 194, 78
+  size: 20, 112
+  orig: 20, 121
+  offset: 0, 9
+  index: -1
+Fabric_B
+  rotate: false
+  xy: 2, 148
+  size: 820, 209
+  orig: 821, 210
+  offset: 0, 1
+  index: -1
+Light_A
+  rotate: true
+  xy: 425, 33
+  size: 113, 131
+  orig: 113, 131
+  offset: 0, 0
+  index: -1
+Light_B
+  rotate: false
+  xy: 558, 35
+  size: 114, 111
+  orig: 114, 111
+  offset: 0, 0
+  index: -1
+Pole
+  rotate: true
+  xy: 2, 12
+  size: 23, 138
+  orig: 23, 139
+  offset: 0, 1
+  index: -1
+Pole_B
+  rotate: true
+  xy: 194, 100
+  size: 46, 229
+  orig: 46, 229
+  offset: 0, 0
+  index: -1
+Smoke
+  rotate: false
+  xy: 2, 37
+  size: 190, 109
+  orig: 201, 121
+  offset: 2, 9
+  index: -1
+Sparkles_Blue
+  rotate: false
+  xy: 824, 2
+  size: 181, 172
+  orig: 181, 172
+  offset: 0, 0
+  index: -1
+Sparkles_Red
+  rotate: true
+  xy: 824, 176
+  size: 181, 183
+  orig: 181, 183
+  offset: 0, 0
+  index: -1

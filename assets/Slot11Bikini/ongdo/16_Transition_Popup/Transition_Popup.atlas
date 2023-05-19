@@ -1,0 +1,20 @@
+
+Transition_Popup.png
+size: 589,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CuonGiayDo
+  rotate: false
+  xy: 551, 2
+  size: 36, 127
+  orig: 36, 127
+  offset: 0, 0
+  index: -1
+GiayDo
+  rotate: false
+  xy: 2, 4
+  size: 547, 125
+  orig: 547, 125
+  offset: 0, 0
+  index: -1

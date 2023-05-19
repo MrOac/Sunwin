@@ -1,0 +1,97 @@
+
+UI_Topup_Mascot_ThaiAt.png
+size: 689,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ao
+  rotate: true
+  xy: 650, 105
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 494, 51
+  size: 113, 89
+  orig: 113, 89
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 650, 131
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 585, 46
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+Head_2
+  rotate: false
+  xy: 650, 92
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: false
+  xy: 536, 13
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+L_Arm_2
+  rotate: true
+  xy: 650, 211
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 585, 98
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: false
+  xy: 494, 166
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+R_Leg_01
+  rotate: false
+  xy: 604, 172
+  size: 44, 92
+  orig: 44, 92
+  offset: 0, 0
+  index: -1
+R_Leg_02
+  rotate: true
+  xy: 650, 154
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+Rock
+  rotate: false
+  xy: 2, 9
+  size: 490, 255
+  orig: 490, 255
+  offset: 0, 0
+  index: -1
+ef_spear_glow
+  rotate: true
+  xy: 494, 2
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1

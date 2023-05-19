@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8262df84-ad98-4be8-b0af-ad4f4e8fc4dd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1751,
+  "height": 580,
+  "platformSettings": {},
+  "subMetas": {
+    "FREE IRONMAN EFFECT 1280x 720": {
+      "ver": "1.0.4",
+      "uuid": "ff1467b6-6587-4a55-99a5-fa5710d60b1b",
+      "rawTextureUuid": "8262df84-ad98-4be8-b0af-ad4f4e8fc4dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": -0.5,
+      "trimX": 8,
+      "trimY": 3,
+      "width": 1740,
+      "height": 575,
+      "rawWidth": 1751,
+      "rawHeight": 580,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

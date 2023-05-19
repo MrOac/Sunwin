@@ -1,0 +1,48 @@
+
+8cdb8e79-da8a-466a-aeb1-382367308ae8.png
+size: 1048,453
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 465, 69
+  size: 238, 196
+  orig: 238, 196
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 2, 2
+  size: 449, 461
+  orig: 449, 461
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 866, 205
+  size: 246, 180
+  orig: 246, 180
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 465, 267
+  size: 399, 184
+  orig: 399, 184
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 882, 32
+  size: 161, 171
+  orig: 161, 171
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 705, 32
+  size: 175, 171
+  orig: 175, 171
+  offset: 0, 0
+  index: -1

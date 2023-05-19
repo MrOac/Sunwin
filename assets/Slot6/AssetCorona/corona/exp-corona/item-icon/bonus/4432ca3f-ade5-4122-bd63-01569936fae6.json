@@ -1,0 +1,110 @@
+{
+"skeleton": {
+	"hash": "rZMQMHbJT9LkFp1f0ErsPecQ7r0",
+	"spine": "3.8.75",
+	"x": -359,
+	"y": -353.5,
+	"width": 756.51,
+	"height": 707,
+	"images": "./images/",
+	"audio": "D:/JOBS/studio/ui desing new/rikvip rikwin/asset/box2/ani/corona/corona2/1/bonus"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": -18.7, "y": 76.71 },
+	{ "name": "bone2", "parent": "root", "x": 79.3, "y": 73.18 },
+	{ "name": "bone3", "parent": "root", "x": 20.08, "y": -88.97 },
+	{ "name": "bone4", "parent": "root" },
+	{ "name": "bone5", "parent": "root" }
+],
+"slots": [
+	{ "name": "flare", "bone": "bone4", "attachment": "flare" },
+	{ "name": "3", "bone": "bone5", "attachment": "3" },
+	{ "name": "dai", "bone": "root", "attachment": "dai" },
+	{ "name": "bg2", "bone": "root", "attachment": "bg2" },
+	{ "name": "t2", "bone": "bone", "attachment": "t2" },
+	{ "name": "t1", "bone": "bone2", "attachment": "t1" },
+	{ "name": "text", "bone": "bone3", "attachment": "text" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"dai": {
+				"dai": { "x": 29.74, "y": -27.43, "width": 654, "height": 317 }
+			},
+			"bg2": {
+				"bg2": { "x": 29.74, "y": -0.93, "width": 524, "height": 370 }
+			},
+			"flare": {
+				"flare": { "rotation": -0.44, "width": 718, "height": 707 }
+			},
+			"text": {
+				"text": { "x": 29.66, "y": 0.54, "width": 442, "height": 121 }
+			},
+			"3": {
+				"3": { "x": 82.01, "width": 631, "height": 436 }
+			},
+			"t1": {
+				"t1": { "x": -50.06, "y": -61.11, "width": 223, "height": 236 }
+			},
+			"t2": {
+				"t2": { "x": -18.07, "y": -29.14, "width": 199, "height": 153 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"bone3": {
+				"scale": [
+					{},
+					{ "time": 0.2333, "x": 1.206, "y": 1.206 },
+					{ "time": 0.5 },
+					{ "time": 0.7333, "x": 1.206, "y": 1.206 },
+					{ "time": 1 }
+				]
+			},
+			"bone2": {
+				"rotate": [
+					{},
+					{ "time": 0.5, "angle": -9.49 },
+					{ "time": 1 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.5, "x": -2.62, "y": 18.38 },
+					{ "time": 1 }
+				]
+			},
+			"bone": {
+				"rotate": [
+					{},
+					{ "time": 0.5, "angle": -11.97 },
+					{ "time": 1 }
+				],
+				"translate": [
+					{},
+					{ "time": 0.5, "x": -7, "y": 22.75 },
+					{ "time": 1 }
+				]
+			},
+			"bone4": {
+				"rotate": [
+					{},
+					{ "time": 0.5, "angle": 180 },
+					{ "time": 1 }
+				]
+			},
+			"bone5": {
+				"rotate": [
+					{},
+					{ "time": 0.5, "angle": 180 },
+					{ "time": 1 }
+				]
+			}
+		}
+	}
+}
+}

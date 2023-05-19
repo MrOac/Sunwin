@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frame/bg
+  rotate: false
+  xy: 670, 74
+  size: 130, 435
+  orig: 130, 435
+  offset: 0, 0
+  index: -1
+Frame/frame
+  rotate: false
+  xy: 202, 74
+  size: 154, 435
+  orig: 154, 435
+  offset: 0, 0
+  index: -1
+Frame/frame dark
+  rotate: false
+  xy: 358, 74
+  size: 154, 435
+  orig: 154, 435
+  offset: 0, 0
+  index: -1
+Frame/frame glowing
+  rotate: false
+  xy: 2, 28
+  size: 198, 481
+  orig: 198, 481
+  offset: 0, 0
+  index: -1
+Frame/frame light
+  rotate: false
+  xy: 514, 74
+  size: 154, 435
+  orig: 154, 435
+  offset: 0, 0
+  index: -1
+char/body
+  rotate: false
+  xy: 802, 206
+  size: 129, 303
+  orig: 129, 303
+  offset: 0, 0
+  index: -1
+char/feather
+  rotate: false
+  xy: 936, 2
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+char/hand
+  rotate: true
+  xy: 1036, 102
+  size: 116, 100
+  orig: 116, 100
+  offset: 0, 0
+  index: -1
+char/head
+  rotate: true
+  xy: 933, 220
+  size: 135, 134
+  orig: 135, 134
+  offset: 0, 0
+  index: -1
+fx1/spark 1
+  rotate: false
+  xy: 202, 8
+  size: 156, 64
+  orig: 156, 64
+  offset: 0, 0
+  index: -1
+fx1/spark 2
+  rotate: false
+  xy: 360, 8
+  size: 156, 64
+  orig: 156, 64
+  offset: 0, 0
+  index: -1
+fx1/spark 3
+  rotate: false
+  xy: 518, 20
+  size: 156, 52
+  orig: 156, 52
+  offset: 0, 0
+  index: -1
+fx1/spark 4
+  rotate: true
+  xy: 933, 357
+  size: 152, 48
+  orig: 152, 48
+  offset: 0, 0
+  index: -1
+fx1/spark 5
+  rotate: false
+  xy: 676, 22
+  size: 154, 50
+  orig: 154, 50
+  offset: 0, 0
+  index: -1
+wild/W1
+  rotate: true
+  xy: 983, 376
+  size: 133, 48
+  orig: 133, 48
+  offset: 0, 0
+  index: -1
+wild/W2
+  rotate: true
+  xy: 1033, 376
+  size: 133, 48
+  orig: 133, 48
+  offset: 0, 0
+  index: -1
+wild/W3
+  rotate: true
+  xy: 936, 85
+  size: 133, 48
+  orig: 133, 48
+  offset: 0, 0
+  index: -1
+wild/W4
+  rotate: true
+  xy: 986, 85
+  size: 133, 48
+  orig: 133, 48
+  offset: 0, 0
+  index: -1
+wild/WILD
+  rotate: false
+  xy: 1015, 35
+  size: 133, 48
+  orig: 133, 48
+  offset: 0, 0
+  index: -1
+wild/WL
+  rotate: true
+  xy: 832, 8
+  size: 196, 102
+  orig: 196, 102
+  offset: 0, 0
+  index: -1

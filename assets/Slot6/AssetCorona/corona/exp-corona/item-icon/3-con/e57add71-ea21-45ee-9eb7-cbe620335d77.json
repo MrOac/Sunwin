@@ -1,0 +1,119 @@
+{
+"skeleton": {
+	"hash": "0g8j1ihyI0BACDKTMAI5AnoBNQk",
+	"spine": "3.8.75",
+	"x": -115.47,
+	"y": -250.94,
+	"width": 242.28,
+	"height": 481.4,
+	"images": "./images/",
+	"audio": "D:/JOBS/studio/ui desing new/rikvip rikwin/asset/box2/ani/corona/corona2/1/3-o"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bb\\", "parent": "root", "x": 8.31, "y": -42.33 },
+	{ "name": "bone", "parent": "root", "x": 40.03, "y": 144.95 },
+	{ "name": "bone2", "parent": "root", "x": 43.95, "y": 25.63 },
+	{ "name": "bone3", "parent": "root", "x": 43.17, "y": -109.39 },
+	{ "name": "bone4", "parent": "root", "x": -7.86, "y": -199.06 },
+	{ "name": "bone5", "parent": "root", "length": 256.15, "rotation": 87.4, "x": 28.25, "y": -166.88 }
+],
+"slots": [
+	{ "name": "Layer 1", "bone": "root", "attachment": "Layer 1" },
+	{ "name": "khoi", "bone": "bone5", "attachment": "khoi" },
+	{ "name": "khoi 2", "bone": "bone5", "attachment": "khoi 2" },
+	{ "name": "bong2", "bone": "bb\\", "attachment": "bong2" },
+	{ "name": "bong", "bone": "bb\\", "attachment": "bong" },
+	{ "name": "3", "bone": "bone3", "attachment": "3" },
+	{ "name": "2", "bone": "bone2", "attachment": "2" },
+	{ "name": "1", "bone": "bone", "attachment": "1" },
+	{ "name": "tile", "bone": "bone4", "attachment": "tile" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Layer 1": {
+				"Layer 1": { "x": 0.1, "y": -7.31, "width": 160, "height": 475 }
+			},
+			"bong": {
+				"bong": { "x": 13.29, "y": 34.01, "width": 95, "height": 165 }
+			},
+			"khoi 2": {
+				"khoi 2": { "x": 261.28, "y": 34.47, "rotation": -92.46, "width": 221, "height": 251 }
+			},
+			"bong2": {
+				"bong2": { "x": -7.71, "y": -18.49, "width": 95, "height": 176 }
+			},
+			"tile": {
+				"tile": { "x": 9.96, "y": 2.32, "width": 147, "height": 63 }
+			},
+			"1": {
+				"1": { "x": -28.93, "y": -248.16, "width": 140, "height": 147 }
+			},
+			"2": {
+				"2": { "x": -38.85, "y": 117.37, "width": 128, "height": 148 }
+			},
+			"3": {
+				"3": { "x": -35.07, "y": 131.48, "width": 128, "height": 147 }
+			},
+			"khoi": {
+				"khoi": { "x": 52.68, "y": 24.92, "rotation": -92.46, "width": 200, "height": 259 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"bb\\": {
+				"translate": [
+					{},
+					{ "time": 1, "y": 113.82 }
+				]
+			},
+			"bone": {
+				"translate": [
+					{},
+					{ "time": 0.5, "x": -6.28, "y": -10.2 },
+					{ "time": 1 }
+				]
+			},
+			"bone2": {
+				"translate": [
+					{},
+					{ "time": 0.5, "y": 7.85 },
+					{ "time": 1 }
+				]
+			},
+			"bone3": {
+				"translate": [
+					{},
+					{ "time": 0.5, "x": -12.56, "y": 4.71 },
+					{ "time": 1 }
+				]
+			},
+			"bone4": {
+				"scale": [
+					{},
+					{ "time": 0.2667, "x": 1.2, "y": 1.2 },
+					{ "time": 0.5 },
+					{ "time": 0.7667, "x": 1.2, "y": 1.2 },
+					{ "time": 1 }
+				]
+			},
+			"bone5": {
+				"rotate": [
+					{},
+					{ "time": 0.5, "angle": 4.17 },
+					{ "time": 1 }
+				],
+				"translate": [
+					{ "curve": "stepped" },
+					{ "time": 1 }
+				]
+			}
+		}
+	}
+}
+}
